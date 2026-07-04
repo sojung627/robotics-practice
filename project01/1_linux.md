@@ -71,5 +71,4 @@ if __name__ == "__main__":
 ```
 student@robotics:~/study/linux/project01$ python3 1_hello.py
 file creation complete: test/hello.txt
-
 ```
