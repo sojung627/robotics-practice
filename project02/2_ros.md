@@ -88,7 +88,7 @@ ros2 run demo_nodes_cpp listener
 - Listener는 해당 메시지를 실시간으로 수신
 
 [이미지 참고] <br>
-![talker_listener](./image/talker_listener.png)
+<img src="./image/talker_listener.png" width="400">
 
 ## 8. ROS2 통신 구조
 ROS2는 Topic 기반 통신 구조를 사용한다.
