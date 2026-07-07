@@ -4,7 +4,7 @@
 DIP-2026-SW파일럿-ROBOTICS 과정에서 진행한 로봇 운영체제(ROS2) 학습 및 실습 내용을 정리한 저장소입니다.
 
 ### project01
-- Ubuntu 22.04 환경에서 VMware Workstation을 사용하여 리눅스 환경을 구 
+- Ubuntu 22.04 환경에서 VMware Workstation을 사용하여 리눅스 환경을 구축
 - Chrome 웹 브라우저와 Visual Studio Code를 설치하여 개발 환경을 구축 
 - Python 프로그램을 작성하고 실행하는 기본 개발 환경을 학습
 
