@@ -34,7 +34,7 @@ Talker에 데이터가 들어오면 Listener가 출력하는 방식 입니다.
 흐름도  
 ![talker listener 그래프](./image/talker_listener.png)
 
-실제 코드  
+실제 상황 
 ![turtlesim 노드 그래프](./talker_listener_graph.png)
 
 ### 2. Turtlesim 노드 간 통신 프로세스
